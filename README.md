@@ -1,2 +1,2 @@
 # JS_Ref
-Notes on Maximilian Schwarzmüller's Accelerated JavaScript Training course on Udemy.
+Notes on Max's Accelerated JavaScript Training course on [Udemy](https://www.udemy.com/javascript-bootcamp-2016/)
